@@ -13,5 +13,3 @@ For the first module about updating an application to use TypeScript, check out 
 The second module covering class and function components is located from the m3-class-and-function-components branch to start, and the completed example is in the m3-class-and-function-components-final branch.
 
 The last module follows the same pattern, with the initial starting point in the m4-declaring-and-using-hooks-with-typescript branch and the final code in the \*-final branch.
-
-Getting started with TypeScript
